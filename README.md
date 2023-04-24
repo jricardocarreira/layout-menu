@@ -3,7 +3,7 @@
 Essa é a solução da realização de um Layout de Menu proposto pelo curso DevQuest.
 
 ## Desafio 
-Criar um header que seja responsivo, para ser aprimorado as habilidades de posicionamento de elementos usando flexbox.
+Criar um header que seja responsivo, para ser aprimorado as habilidades de posicionamento de elementos usando flexbox e mediaqueries para a responsividade em mobile.
 
 ## Screenshots
 
