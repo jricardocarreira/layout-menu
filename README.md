@@ -1,11 +1,9 @@
-# Profile Card
+# Menu Layout
 
-Essa é a solução da realização de um Profile Card proposto pelo curso DevQuest, em alternativa ao desafio [Frontend Mentor | Profile card component coding challenge](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)
+Essa é a solução da realização de um Layout de Menu proposto pelo curso DevQuest.
 
 ## Desafio 
-Criar um cartão que contenha as informações de perfil, para ser aprimorado as habilidades de posicionamento de elementos usando flexbox.
-
-Para dar mais personalidade ao desafio, coloquei minhas informações, ao invés de manter os dados do desafio.
+Criar um header que seja responsivo, para ser aprimorado as habilidades de posicionamento de elementos usando flexbox.
 
 ## Screenshots
 

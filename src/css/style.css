@@ -11,7 +11,7 @@
     align-items: center;
 }
 
-.logo p{
+.logo p {
     font-size: 20px;
     font-weight: 800;
     margin-left: 5px;
@@ -22,16 +22,24 @@
     align-items: center;
 }
 
-.menu li {
-    margin-left: 30px;
+.menu li a {
+    padding: 10px 6px;
+    margin-left: 18px;
+    transition: 0.3s ease-in-out;
 }
 
-.cadastro {
+.menu li a:hover {
+    background-color: #5BC241;
+    color: #fff;
+}
+
+.menu li a.btn {
     background-color: #5BC241;
     border-radius: 10px;
-    padding: 10px 20px 10px 20px;
+    padding: 10px 20px;
+    color: #fff;
 }
 
-.cadastro a {
-    color: #fff;
+.menu li a.btn:hover {
+    background-color: #41a328;
 }
